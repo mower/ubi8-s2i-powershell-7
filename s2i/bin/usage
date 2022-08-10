@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo "Unsuported"
+
+exit 1
