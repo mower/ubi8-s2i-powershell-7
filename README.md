@@ -1,0 +1,1 @@
+# ubi8-s2i-powershell-7
